@@ -1,0 +1,1580 @@
+// 퀴즈 목록 - 위에서부터 (영어, 한글) 두 줄이 한 문제
+// 빈 줄과 // # $ % & ! 로 시작하는 줄은 주석으로 보고 건너뜀
+
+
+
+// A
+A piece of cake
+식은 죽 먹기지
+
+Absolutely
+당연하지
+
+After you
+먼저 가세요
+
+Always
+항상
+
+Amazing
+대단하네요
+
+And then?
+그리고 나서는요?
+
+Any good ideas?
+어떤 좋은 생각이라도?
+
+Any time
+언제라도요
+
+Anybody home?
+집에 누구 있어요?
+
+Anything else?
+그 밖에 또 뭐 있나요?
+
+Are you in line?
+지금 줄에 서 계신 거죠?
+
+Are you kidding?
+놀리는거 아니죠?
+
+Are you serious?
+그거 진짜에요?
+
+At last
+드디어
+
+Attention, please
+주목해 주세요
+
+Awesome
+와 멋있다
+
+// B
+Back me up
+저 좀 잘 부탁해요
+
+Be my guest
+사양하지 마세요
+
+Be patient
+참아요
+
+Be punctual
+시간 좀 맞춰줘
+
+Be right back with you
+곧 너에게 돌아 올게요
+
+Be seated
+앉으세요
+
+Beat it
+꺼져
+
+Beer, please
+맥주 주세요
+
+Behave yourself
+예의를 갖추세요
+
+Better late than never
+하지 않는 것보다는 늦는게 낫다
+
+Better than nothing
+없는 것 보다는 낫다
+
+Boy, it hurts
+와, 진짜 아프네
+
+Break it up
+그만 좀 싸워
+
+// C
+Call me Sam, please
+샘이라고 불러 주세요
+
+Can I get a ride?
+나를 태워다 줄 수 있어요?
+
+Can you hear me now?
+잘 들려요?
+
+Can't argue with that
+그건 논란의 여지가 없죠
+
+Can't be better than this
+이것보다 더 좋을 수는 없어요
+
+Cash or charge?
+현찰이요 아니면 신용카드?
+
+Catch you later
+나중에 보자
+
+Certainly
+물론이죠
+
+Charge it please
+카드로 결제해 주세요
+
+Check it out
+확인해 봐봐
+
+Check, please
+계산서 주세요
+
+Cheer up
+기운내요
+
+Coffee, please
+커피 주세요
+
+Come and get it
+와서 먹어요
+
+Come on in
+들어와요
+
+Come on
+에이 설마
+
+Congratulations
+축하합니다
+
+Could be
+그럴 수도 있죠
+
+Couldn't be better than this
+이보다 더 좋을 순 없어
+
+// D
+Definitely
+당연하죠
+
+Delicious
+맛있어요
+
+Depends
+경우에 따라 달라요
+
+Did you get it?
+알아 들었어요?
+
+Didn't I make myself clear?
+제 입장을 명확하게 말하지 않았나요?
+
+Disgusting
+기분 나빠. 재수 없어
+
+Do I know it?
+저도 압니다. 누가 아니래요?
+
+Do I look all right?
+제가 괜찮아 보이나요?
+
+Do you follow me?
+제 말 알아 듣겠어요?
+
+Do you have everything with you?
+다 가지고 계신거죠?
+
+Do you?
+당신은요?
+
+Doing okay?
+잘 하고 있어요?
+
+Don’t get too serious
+너무 심각하게 생각하지 마세요
+
+Don’t miss the boat
+기회를 놓지지 마세요
+
+Don’t press your luck
+너무 행운만 믿지 말아요
+
+Don't ask
+묻지 말아요
+
+Don't be a chicken
+너무 쫄지 말아요
+
+Don't be afraid
+두려워 하지 마세요
+
+Don't be (foolish / silly)
+멍청하게 굴지 말아요
+
+Don't be modest
+겸손해 하지 말아요
+
+Don't be shy
+부끄러워 하지 마세요
+
+Don't be silly
+어리석은 짓 하지 말아요
+
+Don't bother
+신경쓰지 마세요
+
+Don't change the subject
+화제를 돌리지 마세요
+
+Don't get into trouble
+괜히 껴들지 마세요
+
+Don't get upset
+화내지 말아요
+
+Don't make me laugh
+나 좀 웃기지 마요
+
+Don't push me
+너무 강요 하지 말아요
+
+Don't push
+밀지 말아요
+
+Don't worry about it
+걱정하지 말아요
+
+Drive safely
+안전 운전 하세요
+
+// E
+Easy does it
+진정하고 천천히 하세요
+
+Either will do
+어떤 것이든 좋아요
+
+Enjoy your meal
+맛있게 드세요
+
+Enough is enough
+충분하니까 이제 그만 하세요
+
+Exactly
+정확해
+
+Excellent
+짱
+
+Excuse me
+실례합니다
+
+// F
+Far from it
+아직 멀었어요
+
+Fifty-fifty
+50:50 이에요
+
+Follow me
+따라 오세요
+
+For good?
+영원히?
+
+Forget it
+그건 잊어 버리세요
+
+// G
+Get in the line
+줄을 서세요
+
+Get lost
+당장 꺼져 버려
+
+Get off my back
+내게 간섭하지 마세요
+
+Get real
+현실적이 되세요. 냉정해 지세요
+
+Get the picture?
+완전히 이해가 되세요?
+
+Give it a rest
+내버려 두세요
+
+Give it a try
+한번 시도해 보세요
+
+Give me a call
+제게 전화주세요
+
+Gladly
+기꺼이 하겠습니다
+
+Go ahead
+계속 하세요
+
+Go fifty-fifty
+반반씩 해요
+
+Go for it
+한번 해보세요
+
+Go on, please
+어서 계속 하세요
+
+Going down?
+(엘리베이터) 내려가세요?
+
+Going up?
+(엘리베이터) 올라가세요?
+
+Good enough
+그 정도면 충분 합니다
+
+Good for you
+당신에게 잘됐네요
+
+Good luck to you
+당신에게 행운을 빕니다
+
+Good luck
+행운을 빕니다
+
+Good talking to you
+당신과의 대화는 즐거웠어요
+
+Grow up
+철 좀 들어라
+
+Guess what?
+뭔지 알아 맞춰 봐요
+
+// H
+Hang in there. You can do it
+꼭 견뎌내세요. 당신은 할 수 있어요
+
+Hang loose
+여유를 갖고 편하게 지내세요
+
+Hang on
+조금만 견뎌봐
+
+Have a nice day
+좋은 하루 되세요
+
+Have fun
+재미있게 즐겨
+
+He didn't show up
+그는 나타나지 않았어요
+
+He is history to me
+그는 나에게 이미 과거일 뿐이야
+
+Help me
+도와주세요
+
+Help yourself
+마음껏 드세요
+
+Here is something for you
+여기 당신을 위해 준비한 물건이에요
+
+Hi
+안녕
+
+Hold it
+움직이지 마요. 잠깐만
+
+Hold on
+잠깐 기다리세요
+
+How about you?
+당신은 어때요?
+
+How big is it?
+얼마나 큰데요?
+
+How come?
+어떻게 된거야?
+
+How do you like here?
+당신은 여기 어떠세요?
+
+How have you been?
+그동안 어떻게 지냈어요?
+
+How many times do I have to say?
+몇 번이나 말해돼?
+
+How many?
+몇 개나?
+
+How much?
+얼마나 많이?
+
+How's everything?
+다 잘 되고 있나요?
+
+How's work?
+일은 좀 어때요?
+
+How's your family?
+가족은 잘 있어요?
+
+// I
+I agree
+동의합니다
+
+I am deeply touched
+정말 감동했어요
+
+I am a little disappointed
+좀 실망했어요
+
+I am all set
+준비 다 했어
+
+I am aware of that
+그 점은 인지하고 있습니다
+
+I am back
+저 돌아 왔어요
+
+I am broke
+저 파산 직전이에요
+
+I am coming
+지금 가요
+
+I am crazy about her
+나는 그녀에 빠졌어요
+
+I am exhausted
+완전히 지쳤어요
+
+I am fed up with this
+정말 이거 진저리가 나요
+
+I am free
+한가해요
+
+I am full
+배불러요
+
+I am getting hungry
+배가 슬슬 고파오네요
+
+I am going to miss you
+보고 싶을거야
+
+I am impressed
+감동 받았어요
+
+I am in a hurry
+저 급해요
+
+I am in need
+나 정말 간절해
+
+I am nearsighted
+근시입니다
+
+I am on duty
+근무 중입니다
+
+I am scared to death
+무서워 죽겠어요
+
+I am serious
+전 진심이에요
+
+I am short-changed
+잔돈이 부족해요
+
+I am single
+나는 미혼입니다
+
+I am sorry
+미안해요
+
+I am starving to death
+배고파 죽겠네여
+
+I am stuffed
+배 불러요
+
+I am upset
+화가 나네요
+
+I bet
+물론이지
+
+I can tell
+(구별하고 차이점) 알 수 있어요
+
+I can handle it
+제가 처리할 수 있어요
+
+I can not handle it anymore
+난 더 이상 감당할 수 없네요
+
+I can’t help it
+어쩔수 없어요
+
+I can't say for sure
+확실히는 말 못 하겠어요
+
+I didn't mean to
+전 그런 의도가 아니었어요
+
+I don’t believe it
+난 믿지 않아요
+
+I don't care
+상관없어요
+
+I don't get it
+이해를 못하겠네
+
+I doubt it
+(완곡한 No 의 표현) 아닌 것 같은데
+
+I get it
+알아 들었어요
+
+I got lost
+난 길을 잃었어요
+
+I have got to go now
+이제 가야겠네요
+
+I have had enough
+난 이제 충분해
+
+I hardly know him
+나는 그 사람을 잘 모릅니다
+
+I hate to eat and run but
+먹자마자 가기는 싫지만
+
+I have a long way to go
+전 갈 길이 머네요
+
+I have no appetite
+식욕이 없어요
+
+I have no clue
+아이디어가 전혀 없네요
+
+I have no energy
+의욕이 없어요
+
+I have no idea
+전혀 몰라요
+
+I have no time
+나는 시간이 없어요
+
+I haven't got all day
+(오늘 하루 종일 바빠) 시간없어
+
+I hear you loud and clear
+잘 듣고 있어요
+
+I know what
+(있잖아) 좋은 생각이 있어
+
+I love it
+정말 좋아해
+
+I made it
+제가 해냈어요
+
+I mean it
+진심이에요
+
+I owe you one
+신세를 지네요
+
+I see
+알겠습니다
+
+I still love you
+난 널 아직도 사랑해
+
+I swear to God
+맹세할수 있어요
+
+I taught myself
+제가 혼자 터득했어요
+
+I was lucky
+정말 운이 좋았죠
+
+I was told that -
+저도 - 그렇게 들었어요
+
+I will be in touch
+제가 연락 드릴게요
+
+I will do it for you
+제가 해드릴게요
+
+I will drink to that
+그것에 동감입니다
+
+I will get it
+제가 전화 받을게요
+
+I will miss you
+널 그리워 할거야
+
+I will never make it on time
+제 시간에 가기는 틀렸군
+
+I wouldn't say no
+아니라고는 말하지 않을게요
+
+I'm coming
+갑니다
+
+In a sense, he is nothing but a suit
+어떤 면에서는 그는 허우대만 멀쩡할 뿐이야
+
+Incredible
+대단해
+
+Is that all?
+그게 전부에요?
+
+It is chilly
+날이 쌀쌀 하네
+
+It is humid
+습하네요
+
+It is muggy
+날이 후덥지근하네
+
+It is out of style
+유행이 아니네요
+
+It is painful for me
+그건 저에게 고통스럽네요
+
+It is time for lunch
+점심 시간입니다
+
+It is time to go
+갈 시간 입니다
+
+It is windy
+바람이 부네
+
+It makes sense
+말 되네요
+
+It takes time
+시간이 걸립니다
+
+It's for you
+네 전화야
+
+It’s not fair
+불공평해요
+
+It's all right
+괜찮습니다
+
+It's beautiful
+아름답군요
+
+It's cool
+멋있네요
+
+It's free
+공짜 입니다
+
+It's freezing
+대박 춥네
+
+It's not my fault
+제 잘못이 아닙니다
+
+It's all your fault
+모든게 네 잘못이야
+
+It's my pleasure
+천만에요
+
+It's my turn
+이번에 내 차례입니다
+
+It's now or never
+지금 아니면 기회 없어요
+
+It's really bad
+아주 나빠요
+
+It's tough
+힘들어요
+
+It's your turn
+당신 차례입니다
+
+// J
+Just about
+거의
+
+Just kidding
+그냥 농담이에요
+
+Just looking
+그냥 둘러볼게요
+
+Just a moment
+잠시만요
+
+// K
+Keep an eye on this, will you?
+이것 좀 봐주세요. 해주실거죠?
+
+Keep going
+계속 가세요
+
+Keep in touch
+계속 연락합시다
+
+Keep it confidential
+비밀로 해주세요
+
+Keep looking
+계속해서 찾아봐요
+
+Keep the change
+잔돈은 가지세요
+
+Keep your chin up
+고개를 드세요. 낙담 하지 마세요
+
+Knock it off
+그만 좀 하세요
+
+// L
+Large or small?
+큰거요 아니면 작은 거요?
+
+Let it be
+내버려 둬
+
+Let me see
+흠, 보자
+
+Let me think about it
+그것은 제가 생각해 보겠습니다
+
+Let's give him a big hand
+그에게 큰 박수를 보냅시다
+
+Let's call it a day
+오늘은 여기까지 하죠
+
+Let's eat out
+자, 외식합시다
+
+Let's get together sometime
+언제 한번 함께 봅시다
+
+Let's go over it one more time
+자, 한번 더 살펴 보자
+
+Let's see
+자, 어디
+
+Let's split the bill
+나눠 냅시다
+
+Let's try
+한번 해봅시다
+
+Look who's here
+아니 이게 누구야
+
+Lucky you
+자네 운이 좋았어
+
+// M
+Make a way
+(어려운 상황) 길을 만들어 보자
+
+Make mine well done
+제 것은 well done 으로 해주세요
+
+Make that two, please
+그것을 2개로 나눠 주세요
+
+Make yourself at home
+내 집인 것처럼 편하게 계세요
+
+Many thanks in advance
+미리 감사드려요
+
+Many thanks
+정말 고마워요
+
+May I interrupt you?
+제가 실례를 해도 될까요?
+
+Maybe
+아마도
+
+Maybe not
+그렇지 않을지도
+
+Maybe some other time
+시간 될 때
+
+Me, too
+나도 그래
+
+Money talks
+결국 돈이지
+
+Most likely
+아마도 그럴 것입니다
+
+My pleasure
+(감사에 대한 답례) 제 기쁨입니다
+
+// N
+Never better
+최고에요. 더 좋을 수 없어요
+
+Never mind
+신경쓰지 마세요
+
+Never say die
+절대로 포기하지마
+
+Never too late
+절대로 늦지 않았어
+
+Next time
+다음에
+
+Nice meeting you
+만나서 반가웠어요
+
+Nice talking to you
+재밌는 대화였어요
+
+No kidding
+정말이야
+
+No problem
+문제없어요
+
+No sweat
+껌이죠
+
+No way
+절대 안돼
+
+No wonder
+(의심할 여지 없이) 당연하지, 그럴 만해
+
+Not a chance
+(가능성이 없는) 절대로 안돼
+
+Not bad
+나쁘지 않은데요
+
+Not really
+그렇지는 않아
+
+Not too good
+그저 그래
+
+Nothing much
+별거 없어
+
+Nothing new
+딱히 새로운 것은 없어
+
+Nothing new about that
+그것에 대해선 달라진게 없어요
+
+Now what?
+(불확실한 상황) 이제 어떻게 해요?
+
+Now you are talking
+이제서야 털어놓으시는군요
+
+// O
+Occupied
+사용 중
+
+Oh, dear
+아니, 저런
+
+Okeydokey
+(가까운 사이) 좋아요
+
+On the contrary
+반대로
+
+Once in a blue moon
+아주 가끔요
+
+Ouch
+아야
+
+Out of the question
+틀림없어 / 불가능해
+
+// P
+Pick it up
+주우세요
+
+Please enjoy yourself
+그럼 즐기세요
+
+Please relax
+좀 느긋해 지세요
+
+Please
+제발
+
+Poor thing
+저런 안쓰러워요
+
+Pretty good
+정말 좋아요
+
+Really?
+정말?
+
+Relax
+좀 느긋해 지세요
+
+// S
+Same here
+저도 동감입니다
+
+Same to you
+당신도요
+
+Say cheese
+(사진) 김치
+
+Say that again?
+다시 말씀해 주실래요?
+
+Say when
+(잔 등에 음료수나 물을 따를 때) 그만이라고 말해주세요
+
+See you later
+나중에 봐요
+
+See you
+나중에 봐요
+
+Serious?
+진심이에요?
+
+Shame on you
+부끄러운 줄 알아
+
+She is my style
+그녀는 내 스타일이에요
+
+She is very sophisticated
+그녀는 매우 세련되었어요
+
+Skip it
+다음으로 넘어 가요
+
+So much for that
+이제 그것은 그만 합시다
+
+So soon?
+그렇게 빨리?
+
+So what?
+어쩌라고?
+
+Sold out
+매진
+
+Something's fishy
+뭔가 이상한데?
+
+Something's never changed
+절대 변하지 않는 것이 있지
+
+Sorry to bother you
+귀찮게 해서 죄송 합니다
+
+Sorry?
+뭐라구 하셨죠?
+
+Sounds good
+좋은 생각이에요
+
+Speak out
+말 좀 크게 하세요
+
+Speaking
+말하세요
+
+Speaking Spanish?
+스페인어 하세요?
+
+Stay cool
+진정해요
+
+Stay longer
+조금 더 계세요
+
+Stay out of trouble
+괜히 문제 일으키지 마세요
+
+Stick around
+더 있어봐
+
+Stick with it
+포기하지 말고 계속 해봐요
+
+Stop complaining
+불평 좀 그만 하세요
+
+Suit yourself
+좋을대로 하세요
+
+Super
+짱
+
+Sure
+물론
+
+Sure thing
+물론이지
+
+Sweet dreams
+좋은 꿈 꿔요
+
+// T
+Take a guess
+맞춰봐요
+
+Take care
+잘가
+
+Take my word for it
+(그것과 관련하여) 내 말만 믿어봐
+
+Take your time
+천천히 하세요
+
+Tell me about it
+(강한 긍정) 내 말이
+
+Thank God
+(안도의 한숨) 아이고
+
+Thanks for calling
+전화주셔서 감사합니다
+
+Thanks for everything
+여러가지로 고마워요
+
+Thanks for the compliment
+칭찬해 주셔서 감사합니다
+
+Thanks for the ride
+차로 데려다 주셔서 감사합니다
+
+Thanks, but no thanks
+감사해요, 그러나 전 됐어요
+
+That depends
+경우에 따라 달라요
+
+That figures
+그럴만한 이유가 있군요
+
+That happens
+그런 일도 있어요
+
+That should help
+도움이 될겁니다
+
+That sounds good
+그거 좋은 아이디어네요
+
+That will be the day
+(현실적으로 어려운) 그렇게 되면 정말 좋겠어요
+
+That's all right
+괜찮아요
+
+That's all there is to it
+그게 전부야
+
+That's all?
+그게 다야?
+
+That's enough about that
+그 정도로 충분합니다
+
+That's enough
+이제 되었어요
+
+That's good
+잘 되었네요
+
+That's hard to say
+뭐라 말하기 곤란하네요
+
+That's it
+바로 그거야
+
+That's a nice surprise
+(좋은 의미) 이거 뜻 밖인데요?
+
+That's not fair
+불공평 합니다
+
+That's right
+맞습니다
+
+That's the way to go
+그래 맞는 방법이다
+
+That's what I mean
+내 말이
+
+There you are
+여기 있습니다
+
+Things will work out all right
+다 잘 될거야
+
+This is just between you and me
+우리들만의 비밀입니다
+
+This is not much
+약소합니다
+
+This is urgent
+긴급입니다
+
+This one?
+이거요?
+
+Time will tell
+시간이 해결해 줄 거에요
+
+Time's up
+시간이 다 되었어요
+
+Too bad
+안 되었네요
+
+Too expensive
+너무 비싸네
+
+To the best of my knowledge -
+적어도 내가 알기로는 -
+
+Trust me
+날 믿어봐
+
+Try again
+다시 해 보세요
+
+// U
+Uh-uh
+이런
+
+Unbelievable
+말도 안돼
+
+Up to here
+(손으로 목까지 대어 보이면서) 폭발 일보직전이다
+
+Up or down?
+(엘리베이터) 올라가요? 아니면 내려가요?
+
+// W
+Wait a minute
+잠시만 기다려 주세요
+
+Watch out
+위험해요
+
+Watch your language
+말 조심해요
+
+We are in the same boat
+우리는 같은 운명이에요
+
+Welcome home
+집에 온 것을 환영합니다
+
+Well done
+잘 했어요
+
+What a nerve
+뻔뻔 하군요
+
+What a relief
+이제 마음이 놓인다
+
+What a shame
+완전 창피한 일이지
+
+What about it?
+그거에 대해서 어때요?
+
+What about you?
+당신은 어때요?
+
+What brings you here?
+어떻게 오셨어요?
+
+What did you say?
+뭐 라구요?
+
+What do you do?
+직업이 뭔가요?
+
+What do you know?
+무엇을 알고 있나요?
+
+What do you say?
+어떠세요?
+
+What do you think of it?
+그것에 대해서 어떻게 생각하세요?
+
+What do you think?
+무엇이라고 생각하세요?
+
+For what?
+뭐 때문에?
+
+What is it?
+무슨 일이에요?
+
+What makes you say that?
+무슨 근거로 그렇게 말하세요?
+
+What time is it?
+몇 시에요?
+
+What?
+뭐라구요?
+
+What’s it called?
+그것을 뭐라고 부르나요?
+
+What’s today's special?
+오늘 특선 요리가 뭔가요?
+
+Whatever you say
+너가 뭐라 하든지
+
+What's happening?
+어떻게 지내요?
+
+What's new?
+그동안 새로운 거 있었어요?
+
+What's the big deal?
+그래서 어쩌라고?
+
+What's the point?
+요점이 뭔가요?
+
+What's up?
+(일상적인) 잘지내?
+
+What's wrong?
+뭐가 문제에요?
+
+When?
+언제?
+
+Where are we?
+여기가 어디야?
+
+Where did you stay?
+어디에 머물렀어요?
+
+Where do you live?
+어디에 사세요?
+
+Where is a drugstore?
+약국이 어디에 있어요?
+
+Where to?
+어디로?
+
+Which one?
+어느 것이요?
+
+Who cares
+알게 뭐야 상관없어
+
+Who is it?
+누구세요?
+
+Who knows?
+누가 알겠어
+
+Who's there?
+거기 누구죠?
+
+Who's calling?
+(전화) 누구세요?
+
+Why didn't I think of that?
+왜 그걸 생각 못했지?
+
+Why not?
+왜 안되는데?
+
+Why?
+왜?
+
+Win-win situation
+양쪽 다 좋은 일이지
+
+With pleasure
+기꺼이
+
+Would you like some?
+좀 드셔보실래요?
+
+Wow
+와우
+
+// Y
+You crack me up
+배꼽빠지게 웃기다
+
+Yeah. Yes
+네
+
+Yes and no. Yes
+맞기도 하고, 아니기도 하고. 맞아
+
+You are a lucky duck
+당신은 행운아야
+
+You are driving me crazy
+절 완전 미치게 하시네요
+
+You are getting better
+당신은 점점 좋아지시네요
+
+You are soaked
+흠뻑 젖었군요
+
+You are teasing me
+지금 절 놀리시는 거죠?
+
+You're telling me
+내 말이 바로 그 말이에요
+
+You are too much
+당신 너무 하는군요
+
+You bet
+당연하지
+
+You bet?
+내기 할래? 확실해?
+
+You cannot fool me
+날 속일 수 없어
+
+You can say that again
+당연하지
+
+You first
+먼저 하세요
+
+You have a wrong number
+전화 잘못거셨어요
+
+You got it
+이해를 했군요
+
+You have lost me
+무슨 말씀을 하시는지 잘 모르겠어요
+
+You look good
+좋아 보이네요
+
+You must be crazy
+당신은 미친게 틀림없어
+
+You name it
+말씀만 하세요
+
+You said it
+지당하신 말씀
+
+You should get in shape
+몸매를 좀 가꾸는게 좋겠어요
+
+You stay out of it
+넌 이것에 끼어 들지마
+
+You went too far this time
+이번엔 좀 과하셨어요
+
+You win
+당신이 이겼어요
+
+You're wasting your time
+당신은 시간만 낭비하고 있어요
+
+You're welcome
+천만에요
+
+// Special
+You bet. Absolutely
+당연하지
+
+None of your business
+신경끄고 너나 잘 해
+
+Thanks for the history lesson
+뒷북치지마
+
+I got blacked out yesterday
+어제 필름이 끊겼어
+
+You deserve it
+넌 그럴만한 가치가 있어
+
+Okay, You are the boss from now on
+그래, 지금부터는 너 맘대로 해
+
+Let's go all the way
+끝까지 마셔보자
+
+How could you do that to me?
+너가 나한테 어떻게 그럴 수 있니?
+
+That place rocks. That place kicks
+거기 물 좋다
+
+That's it? Is that all?
+너무 쉽네, 이게 다야?
+
+Put yourself in my shoes
+너도 내 입장이 되어봐
+
+I've never eaten better
+먹어본 것 중에 최고에요
+
+Come on, what are friends for?
+야, 친구 좋다는 게 뭐야?
+
+It was so touching, I almost cried
+(그건) 그건 너무 감격스러워서 눈물이 난다
+
+There's nothing to be sorry about
+미안해 할 것까지는 없어
+
+It couldn't be better than this
+이보다 더 좋을 순 없다
+
+Neh Neh Neh Boo Boo
+메롱
+
+You won't be disappointed
+실망하지 않게 해드리겠습니다
+
+That's what you always do
+너가 하는 일이 항상 그렇지 뭐
+
+Consider your surroundings, you fool
+분위기 파악 좀 해라, 인간아
+
+Just wait. I'll pay you back
+기다려, 두고 보자
+
+He will never starve anywhere
+그는 어디가도 굶어 죽진 않겠다
+
+You'll get hurt if you try to know too much
+너무 많은걸 알려고 하면 다쳐
+
+Stop acting like you're all that
+제발 잘난 척 좀 그만해
+
+The joke is too harsh
+장난이 좀 심하네
+
+Let's stop playing word games
+말 장난 좀 그만 합시다
+
+Do I look like I am easy?
+내가 만만하게 보여?
+
+I feel heavy
+몸이 찌뿌둥하다
+
+Don't get me wrong
+오해하지 마세요
+
+It's so outrageous. I can't say a word
+말도 안돼. 기가 막혀 말이 안나오네
+
+I've still got it
+아직 옛날 실력 안 죽었어
+
+You are dead meat
+넌 이제 죽었어
+
+Don't take it personally
+너 들으라고 한 소리 아냐
+
+Peekaboo
+까꿍
+
+Don't try to butter me up
+나한테 아부하지마
+
+Sue me
+배째
+
+My head is about to open
+나 엄청 화났다
+
+She has a multi-personality
+그녀는 이중 성격을 가졌어
+
+Don't you think you are too harsh?
+당신 나에게 너무 심한거 아니에요?
+
+You don't have to do all that
+그렇게 까지는 할 필요 없어
+
+I don't feel good about it, either
+나도 맘이 편하지는 않아
+
+I don't feel like doing it
+그것을 하는 것은 썩 내키지는 않는다
+
+It's not as good as I expected
+기대했던 것보다 별로인데
+
+My whole body aches
+온몸이 쑤시고 아프다

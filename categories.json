@@ -1,0 +1,10 @@
+{
+  "categories": [
+    {"id": "common", "name": {"ko": "자주 쓰는 영어 표현", "en": "Common English Expressions"}, "file": "common.txt", "rev": 1},
+    {"id": "hospital", "name": {"ko": "병원 표현 모음", "en": "Hospital & Health Expressions"}, "file": "hospital.txt", "rev": 1},
+    {"id": "travel", "name": {"ko": "여행·공항 표현 모음", "en": "Travel & Airport Expressions"}, "file": "travel.txt", "rev": 1},
+    {"id": "restaurant", "name": {"ko": "식당·카페 표현 모음", "en": "Restaurant & Cafe Expressions"}, "file": "restaurant.txt", "rev": 1},
+    {"id": "shopping", "name": {"ko": "쇼핑·계산 표현 모음", "en": "Shopping & Payment Expressions"}, "file": "shopping.txt", "rev": 1},
+    {"id": "work", "name": {"ko": "직장·비즈니스 표현 모음", "en": "Workplace & Business Expressions"}, "file": "work.txt", "rev": 1}
+  ]
+}

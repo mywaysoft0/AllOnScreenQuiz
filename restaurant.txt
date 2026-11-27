@@ -1,0 +1,235 @@
+// 식당·카페 표현 모음 - 위에서부터 (영어, 한글) 두 줄이 한 문제
+
+A table for two, please.
+두 명 자리 부탁드려요.
+
+Do you have a reservation?
+예약하셨나요?
+
+I made a reservation for seven o'clock.
+7시로 예약했어요.
+
+How long is the wait?
+얼마나 기다려야 하나요?
+
+Could we sit by the window?
+창가에 앉을 수 있을까요?
+
+Could I see the menu, please?
+메뉴판 좀 볼 수 있을까요?
+
+Do you have an English menu?
+영어 메뉴판이 있나요?
+
+Are you ready to order?
+주문하시겠어요?
+
+Could we have a few more minutes?
+조금만 더 시간을 주시겠어요?
+
+What do you recommend?
+추천해 주실 만한 게 있나요?
+
+What's the special today?
+오늘의 특별 메뉴가 뭐예요?
+
+What's in this dish?
+이 요리에는 뭐가 들어가나요?
+
+Is this spicy?
+이거 매운가요?
+
+I'd like the steak, please.
+스테이크로 주세요.
+
+I'll have the same.
+저도 같은 걸로 할게요.
+
+How would you like your steak?
+스테이크는 어떻게 구워 드릴까요?
+
+Medium rare, please.
+미디엄 레어로 부탁해요.
+
+I'm allergic to nuts.
+저는 견과류 알레르기가 있어요.
+
+I'm a vegetarian.
+저는 채식주의자예요.
+
+Does this contain dairy?
+이거 유제품이 들어 있나요?
+
+No onions, please.
+양파는 빼 주세요.
+
+Could I have the sauce on the side?
+소스는 따로 주시겠어요?
+
+What would you like to drink?
+음료는 뭐로 하시겠어요?
+
+I'll have a glass of water.
+물 한 잔 주세요.
+
+Could we get some more water?
+물을 좀 더 주시겠어요?
+
+Could I have a refill, please?
+리필 가능할까요?
+
+Can I get a beer, please?
+맥주 한 잔 주시겠어요?
+
+Would you like anything for dessert?
+디저트는 필요하세요?
+
+Just the check, please.
+계산서만 주세요.
+
+Could I have the bill, please?
+계산서 좀 주시겠어요?
+
+Can we split the bill?
+따로 계산할 수 있을까요?
+
+It's on me.
+제가 낼게요.
+
+Let's go Dutch.
+각자 내요.
+
+Is the tip included?
+팁이 포함돼 있나요?
+
+Keep the change.
+거스름돈은 가지세요.
+
+Excuse me, I didn't order this.
+저기요, 이건 제가 주문한 게 아니에요.
+
+My food hasn't come yet.
+제 음식이 아직 안 나왔어요.
+
+This is cold. Could you heat it up?
+이게 식었어요. 데워 주시겠어요?
+
+There's a hair in my food.
+음식에 머리카락이 들어 있어요.
+
+Could I get a box for the leftovers?
+남은 음식을 포장할 상자를 주시겠어요?
+
+Is this for here or to go?
+드시고 가세요, 가져가세요?
+
+For here, please.
+여기서 먹을게요.
+
+To go, please.
+포장해 주세요.
+
+Could you wrap this up?
+이거 포장해 주시겠어요?
+
+What can I get for you?
+뭘 드릴까요?
+
+I'd like a medium latte, please.
+라테 미디엄 사이즈로 주세요.
+
+Can I get an iced Americano?
+아이스 아메리카노 한 잔 주시겠어요?
+
+Hot or iced?
+따뜻한 걸로요, 아이스로요?
+
+What size would you like?
+사이즈는 어떤 걸로 드릴까요?
+
+A large one, please.
+큰 걸로 주세요.
+
+Could I get that with oat milk?
+오트밀크로 바꿔 주시겠어요?
+
+Could you make it less sweet?
+덜 달게 해 주시겠어요?
+
+No sugar, please.
+설탕은 넣지 말아 주세요.
+
+Extra shot, please.
+샷 추가해 주세요.
+
+Could I get a straw?
+빨대 좀 주시겠어요?
+
+Your name, please?
+성함이 어떻게 되세요?
+
+Do you have any pastries?
+페이스트리가 있나요?
+
+I'll take a slice of cheesecake.
+치즈케이크 한 조각 주세요.
+
+Is there a place to charge my phone?
+휴대폰 충전할 곳이 있나요?
+
+Can I use the restroom?
+화장실 좀 써도 될까요?
+
+Where is the restroom?
+화장실이 어디예요?
+
+Is the Wi-Fi free?
+와이파이는 무료인가요?
+
+Can I pay by card?
+카드로 계산해도 되나요?
+
+Do you take reservations?
+예약을 받으시나요?
+
+We'd like a table for six on Friday.
+금요일에 여섯 명 자리를 원해요.
+
+Could we move to a quieter table?
+조금 더 조용한 자리로 옮길 수 있을까요?
+
+The food was delicious.
+음식이 정말 맛있었어요.
+
+Everything was great, thank you.
+모두 좋았어요, 감사합니다.
+
+I'm full.
+배불러요.
+
+I'm starving.
+배고파 죽겠어요.
+
+Would you like to try some?
+좀 드셔 보실래요?
+
+This is on the house.
+이건 서비스예요.
+
+Enjoy your meal!
+맛있게 드세요!
+
+Cheers!
+건배!
+
+The kitchen closes at ten.
+주방은 10시에 닫아요.
+
+We're out of that today.
+오늘은 그게 다 떨어졌어요.
+
+Could I change my order?
+주문을 바꿀 수 있을까요?
+
+Could you recommend a wine to go with this?
+이 음식에 어울리는 와인을 추천해 주시겠어요?

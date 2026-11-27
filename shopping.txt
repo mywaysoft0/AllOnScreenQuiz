@@ -1,0 +1,220 @@
+// 쇼핑·계산 표현 모음 - 위에서부터 (영어, 한글) 두 줄이 한 문제
+
+Can I help you find anything?
+찾으시는 거 있으세요?
+
+I'm just looking, thanks.
+그냥 둘러보는 거예요, 감사합니다.
+
+I'm looking for a jacket.
+재킷을 찾고 있어요.
+
+Do you have this in a different color?
+이거 다른 색상도 있나요?
+
+Do you have this in a larger size?
+이거 더 큰 사이즈도 있나요?
+
+Do you have a smaller size?
+더 작은 사이즈 있나요?
+
+What size do you wear?
+사이즈가 어떻게 되세요?
+
+Can I try this on?
+이거 입어 봐도 될까요?
+
+Where is the fitting room?
+탈의실이 어디예요?
+
+How does it fit?
+잘 맞으세요?
+
+It's a little tight.
+조금 끼어요.
+
+It's too loose.
+너무 헐렁해요.
+
+It looks good on you.
+잘 어울리세요.
+
+I'll take it.
+이걸로 할게요.
+
+I'll think about it.
+생각해 볼게요.
+
+How much is this?
+이거 얼마예요?
+
+How much does it cost?
+가격이 얼마예요?
+
+That's too expensive.
+너무 비싸요.
+
+Do you have anything cheaper?
+더 저렴한 건 없나요?
+
+Is there a discount?
+할인이 되나요?
+
+Is this on sale?
+이거 세일 중인가요?
+
+It's thirty percent off.
+30% 할인이에요.
+
+Can you give me a discount?
+깎아 주실 수 있나요?
+
+Could you do any better on the price?
+가격을 조금 더 낮춰 주실 수 있나요?
+
+What's the original price?
+원래 가격이 얼마예요?
+
+Is tax included?
+세금이 포함된 가격인가요?
+
+Is this the final price?
+이게 최종 가격인가요?
+
+Do you have this in stock?
+이거 재고가 있나요?
+
+Could you check if you have it in the back?
+창고에 있는지 확인해 주시겠어요?
+
+When will it be back in stock?
+언제 다시 입고되나요?
+
+Can I order it online?
+온라인으로 주문할 수 있나요?
+
+Could you gift-wrap it?
+선물 포장해 주시겠어요?
+
+Where do I pay?
+어디서 계산하나요?
+
+Cash or card?
+현금이세요, 카드세요?
+
+I'll pay by credit card.
+신용카드로 결제할게요.
+
+Can I pay in cash?
+현금으로 낼 수 있나요?
+
+Do you accept mobile payments?
+모바일 결제도 되나요?
+
+Could you split it into three monthly payments?
+3개월 할부로 해 주시겠어요?
+
+Please sign here.
+여기에 서명해 주세요.
+
+Do you need a bag?
+봉투 필요하세요?
+
+I don't need a bag.
+봉투는 필요 없어요.
+
+Could I get a receipt?
+영수증 주시겠어요?
+
+Please keep the receipt.
+영수증은 보관해 두세요.
+
+I'd like to return this.
+이거 반품하고 싶어요.
+
+I'd like to exchange this for a different size.
+이걸 다른 사이즈로 교환하고 싶어요.
+
+It doesn't fit me.
+저한테 안 맞아요.
+
+It's the wrong item.
+잘못된 상품이에요.
+
+It's damaged.
+파손됐어요.
+
+It doesn't work.
+작동하지 않아요.
+
+Do you have the receipt?
+영수증 가지고 계신가요?
+
+You can return it within thirty days.
+30일 이내에 반품하실 수 있어요.
+
+I'd like a refund.
+환불해 주세요.
+
+The refund will go back to your card.
+환불은 카드로 들어갑니다.
+
+Is there a warranty?
+보증 기간이 있나요?
+
+How long is the warranty?
+보증 기간이 얼마나 되나요?
+
+Does it come with a charger?
+충전기도 같이 오나요?
+
+Is this available in other colors?
+다른 색상으로도 나오나요?
+
+Where can I find the dairy section?
+유제품 코너가 어디예요?
+
+Which aisle is the bread in?
+빵은 몇 번 통로에 있나요?
+
+Could you tell me where the checkout is?
+계산대가 어디인지 알려 주시겠어요?
+
+Do you have a loyalty card?
+멤버십 카드 있으세요?
+
+Would you like to sign up for a membership?
+멤버십에 가입하시겠어요?
+
+Can I use this coupon?
+이 쿠폰 사용할 수 있나요?
+
+This coupon has expired.
+이 쿠폰은 만료됐어요.
+
+Are you being helped?
+도와드리고 있나요?
+
+Do you deliver?
+배달해 주시나요?
+
+How long will delivery take?
+배송은 얼마나 걸려요?
+
+Free shipping on orders over fifty dollars.
+50달러 이상 주문 시 무료 배송입니다.
+
+Can I track my order?
+주문 배송 조회가 되나요?
+
+I'm just browsing online.
+온라인으로 구경만 하고 있어요.
+
+What time do you close today?
+오늘 몇 시에 문 닫으세요?
+
+I'll come back later.
+나중에 다시 올게요.
+
+Thank you for shopping with us.
+저희 매장을 이용해 주셔서 감사합니다.

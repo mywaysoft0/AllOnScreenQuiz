@@ -1,0 +1,241 @@
+// 여행·공항 표현 모음 - 위에서부터 (영어, 한글) 두 줄이 한 문제
+
+Where is the check-in counter?
+체크인 카운터가 어디예요?
+
+I'd like a window seat, please.
+창가 자리로 부탁드려요.
+
+I'd like an aisle seat, please.
+통로 쪽 자리로 부탁드려요.
+
+I have one bag to check in.
+부칠 짐이 하나 있어요.
+
+Is this bag within the weight limit?
+이 가방은 무게 제한 안에 들어가나요?
+
+Here is my passport.
+여권 여기 있어요.
+
+What's the purpose of your visit?
+방문 목적이 무엇인가요?
+
+I'm here for sightseeing.
+관광하러 왔어요.
+
+I'm here on business.
+출장으로 왔어요.
+
+How long will you be staying?
+얼마나 머무르실 건가요?
+
+I'll be staying for five days.
+5일 동안 머물 거예요.
+
+Where will you be staying?
+어디에 묵으실 건가요?
+
+I'll be staying at a hotel downtown.
+시내에 있는 호텔에 묵을 거예요.
+
+Do you have anything to declare?
+신고할 물건이 있으신가요?
+
+Nothing to declare.
+신고할 것은 없어요.
+
+Where is gate twenty-three?
+23번 게이트가 어디예요?
+
+What time does boarding start?
+탑승은 몇 시에 시작하나요?
+
+Is the flight on time?
+비행기가 정시에 출발하나요?
+
+The flight has been delayed.
+항공편이 지연됐어요.
+
+My flight has been canceled.
+제 항공편이 취소됐어요.
+
+I missed my connecting flight.
+연결 항공편을 놓쳤어요.
+
+Could you help me rebook my flight?
+항공편 재예약을 도와주시겠어요?
+
+I lost my luggage.
+짐을 잃어버렸어요.
+
+My suitcase hasn't arrived.
+제 캐리어가 도착하지 않았어요.
+
+Where is the baggage claim?
+수하물 찾는 곳이 어디예요?
+
+Excuse me, could you help me with my bag?
+실례지만, 가방 드는 걸 도와주시겠어요?
+
+Where can I exchange money?
+어디서 환전할 수 있나요?
+
+What's the exchange rate today?
+오늘 환율이 얼마예요?
+
+Where can I get a taxi?
+택시는 어디서 탈 수 있나요?
+
+How much is it to the city center?
+시내까지 얼마예요?
+
+Please take me to this address.
+이 주소로 가 주세요.
+
+Could you turn on the meter, please?
+미터기를 켜 주시겠어요?
+
+Keep the change.
+잔돈은 가지세요.
+
+Where is the nearest subway station?
+가장 가까운 지하철역이 어디예요?
+
+Which line should I take?
+어느 노선을 타야 하나요?
+
+Does this train go to the airport?
+이 기차는 공항에 가나요?
+
+Do I need to transfer?
+갈아타야 하나요?
+
+How often does the bus come?
+버스는 얼마나 자주 오나요?
+
+One ticket to the central station, please.
+중앙역 가는 표 한 장 주세요.
+
+What time is the last train?
+막차는 몇 시예요?
+
+I'd like a round-trip ticket.
+왕복 표로 주세요.
+
+I'd like to check in, please.
+체크인하려고 합니다.
+
+I have a reservation under Kim.
+김 이름으로 예약했어요.
+
+Do you have any rooms available?
+빈 방이 있나요?
+
+How much is it per night?
+1박에 얼마예요?
+
+Is breakfast included?
+조식이 포함돼 있나요?
+
+What time is check-out?
+체크아웃은 몇 시예요?
+
+Could I have a late check-out?
+늦게 체크아웃해도 될까요?
+
+Could you keep my luggage until this afternoon?
+오후까지 제 짐을 맡아 주시겠어요?
+
+What's the Wi-Fi password?
+와이파이 비밀번호가 뭐예요?
+
+The air conditioner doesn't work.
+에어컨이 작동하지 않아요.
+
+There's no hot water.
+뜨거운 물이 안 나와요.
+
+Could I get extra towels?
+수건을 더 받을 수 있을까요?
+
+Could you send someone to clean the room?
+방 청소해 줄 분을 보내 주시겠어요?
+
+I'd like a wake-up call at seven.
+7시에 모닝콜을 부탁드려요.
+
+Can you recommend a good place to eat around here?
+이 근처에 맛집 추천해 주실 수 있어요?
+
+How do I get to the museum?
+박물관에는 어떻게 가나요?
+
+Is it far from here?
+여기서 먼가요?
+
+It's about a ten-minute walk.
+걸어서 10분쯤 걸려요.
+
+Turn left at the corner.
+모퉁이에서 왼쪽으로 도세요.
+
+Go straight for two blocks.
+두 블록 직진하세요.
+
+It's on your right.
+오른쪽에 있어요.
+
+I think I'm lost.
+길을 잃은 것 같아요.
+
+Could you show me on the map?
+지도에서 보여 주시겠어요?
+
+What time does it open?
+몇 시에 문을 열어요?
+
+What time does it close?
+몇 시에 문을 닫아요?
+
+How much is the admission fee?
+입장료가 얼마예요?
+
+Two adults and one child, please.
+어른 둘, 어린이 하나 주세요.
+
+Is there a discount for students?
+학생 할인이 있나요?
+
+Can I take pictures here?
+여기서 사진 찍어도 되나요?
+
+Could you take a picture of us?
+저희 사진 좀 찍어 주시겠어요?
+
+Is there a guided tour in English?
+영어 가이드 투어가 있나요?
+
+I'd like to rent a car.
+차를 빌리고 싶어요.
+
+Do you accept credit cards?
+신용카드 받으세요?
+
+My phone doesn't have a signal.
+제 휴대폰이 신호가 안 잡혀요.
+
+I think my wallet was stolen.
+지갑을 도난당한 것 같아요.
+
+Where is the nearest police station?
+가장 가까운 경찰서가 어디예요?
+
+I need to get to the airport by noon.
+정오까지 공항에 가야 해요.
+
+Have a safe trip!
+안전한 여행 되세요!
+
+I had a great time.
+정말 즐거웠어요.
