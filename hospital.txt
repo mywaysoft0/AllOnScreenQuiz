@@ -73,6 +73,9 @@ My back hurts.
 I twisted my ankle.
 발목을 삐었어요.
 
+I hurt my knee.
+무릎을 다쳤어요.
+
 I cut my finger.
 손가락을 베였어요.
 
@@ -244,11 +247,5 @@ I got a flu shot.
 Please let me know if you feel worse.
 더 안 좋아지면 알려 주세요.
 
-TEST new one.
-테스트 하나.
-
-TEST new two.
-테스트 둘.
-
-TEST new three.
-테스트 셋.
+Get well soon!
+빨리 나으세요!
